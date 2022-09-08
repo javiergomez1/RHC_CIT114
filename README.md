@@ -1,14 +1,12 @@
-# RHC_CIT114
-CIT 114 - Cloud Computing &amp; DevOps
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8308081&assignment_repo_type=AssignmentRepo)
+# RHC CIT 114 - Cloud Computing &amp; DevOps
 # Study Notes from CIT 114 for Javier Gomez
 
 Taking notes is important when studying for classes or professional certification exams. Writing down information in your own words can not only help you remember but also give you information to review before an exam.
 
 In this assignment, you will be creating your own individual notes using a private software repository on the following topics:
 
-* [Notes 1: Cloud Concepts Overview](notes01/README.md)
-* [Notes 2: Cloud Economics, Billing & Support](notes02/README.md)
+* [Notes 1: Cloud Concepts Overview](https://github.com/javiergomez1/RHC_CIT114/blob/main/Notes%2001:%20Cloud%20Concepts%20Overview.md)
+* [Notes 2: Cloud Economics, Billing & Support](notes02.md)
 * [Notes 3: Cloud Global Infrastructure](notes03/README.md)
 * [Notes 4: Cloud Secuirty with DevOps](notes04/README.md)
 * [Notes 5: Networking & Content Delivery](notes05/README.md)
