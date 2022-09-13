@@ -18,4 +18,18 @@
 - 
 
 ### 3) New Facts Learned were Described
+I learned that within AWS Security, are are somethings that the Customer is responsible to keep secure, and other things AWS is.
+- Customer security responsibilities include:
+  1. Customer Data
+  2. Platform, Applications, Identity & Access Management
+  3. Operating System, Network & Firewall Configuration
+  4. Client-side data encryption & data integrity authentication
+  5. Server-side encryption, file system and/or data
+  6. Network traffic protection - Encryption, Integrity & Identity
 
+- AWS security responsibilities include:
+  1. Software
+  2. Compute
+  3. Storage
+  4. Database
+  5. Networking
