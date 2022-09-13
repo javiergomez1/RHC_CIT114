@@ -8,6 +8,7 @@
 - Trade Capital Expense for Variable Expense
 - Deploy servers in just a few clicks
 - Scale resources as needed
+- Shared resources keeps costs down
 
 ### 2) Two Quotes Identified
 - AWS Cloud spans 87 Availability Zones with 27 Geographic Reions around the world
