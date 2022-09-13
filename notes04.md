@@ -14,8 +14,16 @@
 
 
 ### 2) Two Quotes Identified
-- 
-- 
+- In Google Data Centers there are six layers of security
+  1. Property Boundaries
+  2. Secure Perimeter
+  3. Building Access
+  4. Security Operations Center (SOC)
+  5. Data Center Floor
+  6. Where disks are erased or destroyed
+
+- Customer can issue and keep their own encryption keys
+  
 
 ### 3) New Facts Learned were Described
 I learned that within AWS Security, are are somethings that the Customer is responsible to keep secure, and other things AWS is.
