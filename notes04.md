@@ -2,6 +2,7 @@
 ## Notes 4: Cloud Security with DevOps
 
 ### 1) Key Points Summarized
+- Network ACL - Access Control Lists
 - IAM - Identity and Access Management - Main Components:
   1. Users
   2. Services
@@ -10,8 +11,17 @@
 - Securing Data
   1. Data at Rest - Data stored on disks, backup tapes or any other storage device
   2. Data in Transit - Data in route between a source and destination, it is secured by SSL(Secure Sockets Layers) and TLS(Transport Layer Security)
-
-
+- AWS Networking
+  1. Elastic Load Balancing
+  2. Amazon VPC - Virtual Private Cloud = Router, Switch, Network pipeline
+- AWS Compute
+  1. AMI - Amazon Machine Images
+  2. EC2 - Elastic Compute Cloud
+- AWS Storage & Databases
+  1. EBS - Electic Block Store = DAS - Direct Attached Storage
+  2. EFS - Electric File System = SAN - Storage Area Network
+  3. S3 - Simple Storage System = NAS - Network Attached Storage
+  4. RDS - Relational Database Service = RDBMS - Relational DataBase Management System
 
 ### 2) Two Quotes Identified
 - In Google Data Centers there are six layers of security
