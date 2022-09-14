@@ -33,6 +33,9 @@ I liked how multitenancy was compared to an apartment building that shares resou
 ##### "We just went past the 3 million man hour mark for zero lost-time incidents." 
 The fact that Google has gone beyond 3 million man hours without incindents is very impressive and solidifies how reliable Google clouds is.
 
+##### "Data transfer between services in the same region is free"
+It's nice to know that transferring data between AWS services will not cost anything.
+
 ### 3) Outline the new facts that you learned from this section?
 
 #### TCO (Total Cost of Ownership) Components
@@ -56,3 +59,4 @@ The fact that Google has gone beyond 3 million man hours without incindents is v
   1. Outbound is aggregated and charged
   2. Inbound has no charge (with some exceptions)
   3. Charged typically per GB
+  4. Data transfer between services in the same region is free
