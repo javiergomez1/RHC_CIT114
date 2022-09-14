@@ -35,7 +35,7 @@ The fact that Google has gone beyond 3 million man hours without incindents is v
 
 ### 3) Outline the new facts that you learned from this section?
 
-#### TCO Components
+#### TCO (Total Cost of Ownership) Components
 - Hardware acquisition
 - Software acquisition
 - Infrastructure
@@ -45,3 +45,14 @@ The fact that Google has gone beyond 3 million man hours without incindents is v
 - Training
 - Support
 - Electricity
+
+#### AWS Pricing Model
+- Compute
+  1. Charged per hour or in Linux only, second
+  2. Varies by instance type
+- Storage
+  1. Charged typically per GB
+- Data Transfer
+  1. Outbound is aggregated and charged
+  2. Inbound has no charge (with some exceptions)
+  3. Charged typically per GB
