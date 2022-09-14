@@ -26,6 +26,11 @@
 - VPC - Virtual Private Cloud
 
 
+#### Reserved Instances are available in 3 options – 
+  1. All up-front (AURI)
+  2. Partial up-front (PURI) 
+  3. No upfront payments (NURI).
+
 ### 2) Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting. Outline the new facts that you learned from this section?
 ##### "In the cloud world, companies and users can benefit from this scale because of a special thing called multitenancy." 
 I liked how multitenancy was compared to an apartment building that shares resource.  I live in a condo, and we have to share the pool and split the bill for the maintenance, through the HOA fees.
