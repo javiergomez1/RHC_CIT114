@@ -2,6 +2,8 @@
 ## Notes 4: Cloud Security with DevOps
 
 ### 1) Key Points Summarized
+- Encryption - Encoded data with a secret key, which makes it unreadable
+- AWS KMS - Key Management Service
 - Network ACL - Access Control Lists
 - AWS Route 53 - Amazon's registrar & DNS server, a reference to TCP/UDP port 53, where DNS server requests are addressed
 - AWS IAM - Identity and Access Management
