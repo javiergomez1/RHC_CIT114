@@ -7,7 +7,11 @@
 - AWS IAM - Identity and Access Management
   1. Principle of Least Privilege - By default give users and objects the least permissions possible, and gradually start granting more as needed.
 - AWS CloudTrail - Tracks user activity on an account and keeps logs for 90 days by default.
-
+- AWS Shield 
+  1. Distributed Denial of Service (DDoS) protection service
+  2. Safeguards application on AWS
+  3. Always-on detection & automatic inline mitigations
+  4. AWS Shield Standard is free, but AWS Shield Advanced is a paid service
 ### 2) Two Quotes Identified
 - An IAM Group is used to grant the same permissions to multiple users
 
