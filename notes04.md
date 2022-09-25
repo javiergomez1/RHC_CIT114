@@ -6,7 +6,6 @@
 - TLS - Transport Layer Security - Formerly SSL (Secure Socket Layer), is an open standard protocol
 - ACL - Access Control Lists 
 - AWS KMS - Key Management Service
-- Network ACL - Access Control Lists
 - AWS Route 53 - Amazon's registrar & DNS server, a reference to TCP/UDP port 53, where DNS server requests are addressed
 - AWS IAM - Identity and Access Management
   1. Principle of Least Privilege - By default give users and objects the least permissions possible, and gradually start granting more as needed.
@@ -17,6 +16,7 @@
   3. Always-on detection & automatic inline mitigations
   4. AWS Shield Standard is free, but AWS Shield Advanced is a paid service
   5. To Contact DDoS response team, either Business or Enterprise Support is required
+- AWS Trusted Advisor - Bucket permission check - free feature
 ### 2) Two Quotes Identified
 - An IAM Group is used to grant the same permissions to multiple users
 - Customer can issue and keep their own encryption keys
