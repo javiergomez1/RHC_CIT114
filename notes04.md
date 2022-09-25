@@ -4,6 +4,7 @@
 ### 1) Key Points Summarized
 - Encryption - Encoded data with a secret key, which makes it unreadable
 - TLS - Transport Layer Security - Formerly SSL (Secure Socket Layer), is an open standard protocol
+- ACL - Access Control Lists 
 - AWS KMS - Key Management Service
 - Network ACL - Access Control Lists
 - AWS Route 53 - Amazon's registrar & DNS server, a reference to TCP/UDP port 53, where DNS server requests are addressed
@@ -18,8 +19,8 @@
   5. To Contact DDoS response team, either Business or Enterprise Support is required
 ### 2) Two Quotes Identified
 - An IAM Group is used to grant the same permissions to multiple users
-
 - Customer can issue and keep their own encryption keys
+- ACLs are less commonly used because they predate IAM
   
 
 ### 3) New Facts Learned were Described
