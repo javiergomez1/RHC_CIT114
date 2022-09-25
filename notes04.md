@@ -12,6 +12,7 @@
   2. Safeguards application on AWS
   3. Always-on detection & automatic inline mitigations
   4. AWS Shield Standard is free, but AWS Shield Advanced is a paid service
+  5. To Contact DDoS response team, either Business or Enterprise Support is required
 ### 2) Two Quotes Identified
 - An IAM Group is used to grant the same permissions to multiple users
 
