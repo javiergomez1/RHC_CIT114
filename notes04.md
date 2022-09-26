@@ -21,6 +21,7 @@
 - AWS S3 Block Public Access - Overides any other policy or object permission. Enabled by default.
 - AWS Trusted Advisor - Bucket permission check. Free feature.
 - AWS Config - Access, audit, and evaluate the configurations of AWS resources. You can automate the evaluation of recorded configurations.
+- AWS Artifact - A resource for compliance-related information. Provides access to security and compliance reports, and select online agreements.
 ### 2) Two Quotes Identified
 - An IAM Group is used to grant the same permissions to multiple users
 - Customer can issue and keep their own encryption keys
