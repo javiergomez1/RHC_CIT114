@@ -1,5 +1,5 @@
 # Module 7
-## Notes 05: Networking & Content Delivery
+## Notes 5: Networking & Content Delivery
 
 ### 1) Key Points Summarized
 - CDN - Content Delivery Network
