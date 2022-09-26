@@ -15,6 +15,10 @@
 
 ### 2) Two Quotes Identified
 - You can think of each AWS compute service as belonging to 1 of 4 broad categories defined as
+  1. Infrastructure as a Servive
+  2. virtual machines
+  3. serverless computing
+  4. Platform as a Service
   
 
 ### 3) New Facts Learned were Described
