@@ -22,11 +22,6 @@
   
 
 ### 3) New Facts Learned were Described
-- IAM Policies are written in JSON (Java Script Object Notation) scripts
-- AWS security responsibilities include:
-  1. Software
-  2. Compute
-  3. Storage
-  4. Database
-  5. Networking
+- VMWare images are supported by AWS
+- You can deploy Docker containers to AWS
 
