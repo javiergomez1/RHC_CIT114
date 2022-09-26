@@ -19,4 +19,5 @@
 ### 3) New Facts Learned were Described
 - IAM Policies are written in JSON (Java Script Object Notation) scripts
 - Amazon recommends to use IAM to create an account with admin rights, and never log in with the root user.
-- The smallest size subnet in a AWS VPC is /28
+- The smallest size subnet in a VPC is /28
+- The maximum size IP address range you can have in a VPC is /16
