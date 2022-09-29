@@ -3,6 +3,9 @@
 
 
 ### 1) Key Points Summarized
+- Database - A shared collection of related data used to support the activities of a particular organization.
+
+
 
 
 ### 2) Two Quotes Identified
