@@ -18,7 +18,9 @@
 
 
 ### 2) Two Quotes Identified
-
+- You would never do development on the Production environment
+- AWS has a Service Level Agreement (SLA) stating their service will be available 99.99999999999% of the time
 
 
 ### 3) New Facts Learned were Described
+Availability = "Available for Use Time" / "Total Time"
