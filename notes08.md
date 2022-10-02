@@ -18,6 +18,7 @@
 - NoSQL
 - Multi-AZ DB Instance
 
+
 ### 2) Two Quotes Identified
 - AWS Solutions typically fall into 1 of 2 categories, unmanaged or managed
   1. Unmanaged - Scaling, fault tolerance, and availability ar managed by you
