@@ -3,8 +3,9 @@
 
 ### 1) Key Points Summarized
 - AWS ELB - Elastic Load Balancing
-- AWS CloudWatch
+- AWS CloudWatch - Amazon's monitoring service that provides actionable insights to monitor applications, respond to system-wide performance changes, and optimize resource utilization. 
 - AWS EC2 Auto Scaling
+- SRE - Site Reliability Engineers
 
 ### 2) Two Quotes Identified
 - "A network load balancer operates at the network transport level, or layer 4 of the OSI model" 
