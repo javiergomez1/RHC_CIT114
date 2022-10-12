@@ -1,8 +1,6 @@
 # RHC CIT 114 - Cloud Computing &amp; DevOps
-
-# Final Reading Notes
-
-# Study Notes from CIT 114 for Javier Gomez
+## Final Reading Notes
+### Study for Javier Gomez
 
 
 * [Notes 1: Cloud Concepts Overview](notes01.md)
