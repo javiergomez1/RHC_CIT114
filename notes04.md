@@ -16,7 +16,7 @@
   3. Always-on detection & automatic inline mitigations
   4. AWS Shield Standard is free, but AWS Shield Advanced is a paid service
   5. To Contact DDoS response team, either Business or Enterprise Support is required
-- AWS Trusted Advisor - Bucket permission check - free feature
+- AWS Trusted Advisor - provides recommendations that help you follow AWS best practices. Trusted Advisor evaluates your account by using checks. These checks identify ways to optimize your AWS infrastructure, improve security and performance, reduce costs, and monitor service quotas.
 - AWS Storage Gateway - A hybrid cloud storage service that provides on-premise access to AWS cloud storage.
 - AWS S3 Block Public Access - Overides any other policy or object permission. Enabled by default.
 - AWS Trusted Advisor - Bucket permission check. Free feature.
